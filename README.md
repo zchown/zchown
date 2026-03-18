@@ -1,6 +1,7 @@
 ## Welcome! I'm Zander
 <p>
   I'm a CS Phd student with interests in Satellite Networking, building engines to play board games, neovim and other random side projects.
+
   Checkout Ursus my chess engine, or Haliax my current wip Tak engine to replace LambdaTak.
 </p><br>
 
