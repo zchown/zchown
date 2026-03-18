@@ -8,7 +8,7 @@
 ### Stats
 
 <div style="display: flex;" align="center">
-  <img height="200" width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchown&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.64&count_weight=0.33" />
-  <img height="200" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchown&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+  <img height="200" width="54%" src="https://github-readme-stats.vercel.app/api?username=zchown&theme=tokyonight&show_icons=true&rank_icon=percentile" />
+  <img height="200" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchown&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.64&count_weight=0.33&hide=jupyter%20notebook" />
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zchown&theme=react-dark&hide_border=true&bg_color=0d1117&color=9572E8&line=DE6789&point=F85149&area=true" />
 </div>
