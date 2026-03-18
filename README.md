@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome! I'm Zander
+<p>
+  I'm a CS Phd student with interests in Satellite Networking, building engines to play board games, neovim and other random side projects.
+  Checkout Ursus my chess engine, or Haliax my current wip Tak engine to replace LambdaTak.
+</p><br>
 
-<!--
-**zchown/zchown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;" align="center">
+  <img height="200" width="54%" src="https://github-readme-stats.vercel.app/api?username=zchown&theme=tokyonight&show_icons=true&rank_icon=percentile" />
+  <img height="200" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchown&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zchown&theme=react-dark&hide_border=true&bg_color=0d1117&color=9572E8&line=DE6789&point=F85149&area=true" />
+</div>
